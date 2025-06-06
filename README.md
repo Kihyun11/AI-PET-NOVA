@@ -6,18 +6,25 @@ Designed an AI Pet named NOVA in collaboration with IBM company.
 ## Overview - Leaflet Design
 
 <p float="left">
-  <img src="images/nova_leaflet_insdie.jpg" width="45%" />
+  <img src="images/nova_leaflet_inside.jpg" width="45%" />
   <img src="images/nova_leaflet_outside.jpg" width="45%" />
 </p>
 
 
 ## Flowchart
-![flowchart1](images/nova_flowchart_1.jpg)
-![flowchart2](images/nova_flowchart_2.jpg)
+
+<p float="left">
+  <img src="images/nova_flowchart_1.jpg" width="45%" />
+  <img src="images/nova_flowchart_2.jpg" width="45%" />
+</p>
 
 ## Screen Designs
-![Face](images/nova_face.jpg)
-![Weather](images/weather.jpeg)
+
+
+<p float="left">
+  <img src="images/nova_face.jpg" width="45%" />
+  <img src="images/weather.jpeg" width="45%" />
+</p>
 
 ## Hardware Frame
 ![frame1](images/nova_frame1.jpg)

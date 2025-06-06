@@ -27,22 +27,21 @@ Designed an AI Pet named NOVA in collaboration with IBM company.
 </p>
 
 ## Hardware Frame
-![frame3](images/nova_frame3.jpg)
+
 <p float="left">
   <img src="images/nova_frame1.jpg" width="45%" />
-  <img src="images/nova_frame2" width="45%" />
+  <img src="images/nova_frame2.jpg" width="45%" />
 </p>
 
 <p align="center">
-  <img src="images/nova_frame3.png" alt="NOVA Frame" width="500"/>
+  <img src="images/nova_frame3.jpg" alt="NOVA Frame" width="500"/>
   <br>
   <em>The final appearance of NOVA on the presentation day</em>
 </p>
 
 ## Poster
-![poster](images/nova_poster.jpg)
 <p align="center">
-  <img src="images/nova_poster.png" alt="NOVA Poster" width="500"/>
+  <img src="images/nova_poster.jpg" alt="NOVA Poster" width="500"/>
   <br>
   <em>The poster of NOVA on the presentation day</em>
 </p>

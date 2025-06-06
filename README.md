@@ -14,8 +14,8 @@ Designed an AI Pet named NOVA in collaboration with IBM company.
 ## Flowchart
 
 <p float="left">
-  <img src="images/nova_flowchart_1.jpg" width="45%" />
-  <img src="images/nova_flowchart_2.jpg" width="45%" />
+  <img src="images/nova_flowchart_1.jpg" width="45%" height = "250px"/>
+  <img src="images/nova_flowchart_2.jpg" width="45%" height = "250px"/>
 </p>
 
 ## Screen Designs

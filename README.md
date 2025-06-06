@@ -14,27 +14,27 @@ Designed an AI Pet named NOVA in collaboration with IBM company.
 ## Flowchart
 
 <p float="left">
-  <img src="images/nova_flowchart_1.jpg" width="45%" height = "250px"/>
-  <img src="images/nova_flowchart_2.jpg" width="45%" height = "250px"/>
+  <img src="images/nova_flowchart_1.jpg" width="45%" />
+  <img src="images/nova_flowchart_2.jpg" width="45%" />
 </p>
 
 ## Screen Designs
 
 
 <p float="left">
-  <img src="images/nova_face.jpg" width="45%" />
-  <img src="images/weather.jpeg" width="45%" />
+  <img src="images/nova_face.jpg" width="45%" height = "250px" />
+  <img src="images/weather.jpeg" width="45%"  height = "250px"/>
 </p>
 
 ## Hardware Frame
 
 <p float="left">
-  <img src="images/nova_frame1.jpg" width="45%" />
-  <img src="images/nova_frame2.jpg" width="45%" />
+  <img src="images/nova_frame1.jpg" width="45%" height = "280px"/>
+  <img src="images/nova_frame2.jpg" width="45%" height = "280px"/>
 </p>
 
 <p align="center">
-  <img src="images/nova_frame3.jpg" alt="NOVA Frame" width="500"/>
+  <img src="images/nova_frame3.jpg" alt="NOVA Frame" width="500" height = "280px"/>
   <br>
   <em>The final appearance of NOVA on the presentation day</em>
 </p>

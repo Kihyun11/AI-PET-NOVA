@@ -4,12 +4,16 @@ Watson IBM collaboration with Imperial College London
 Designed an AI Pet named NOVA in collaboration with IBM company.
 
 ## Overview - Leaflet Design
-![Leaflet_inside](images/nova_leaflet_inside.jpg)
-![Leaflet_inside](images/nova_leaflet_outside.jpg)
+
+<p float="left">
+  <img src="images/nova_leaflet_insdie.jpg" width="45%" />
+  <img src="images/nova_leaflet_outside.jpg" width="45%" />
+</p>
+
 
 ## Flowchart
-![flowchart1](images/nova_flowchart1.jpg)
-![flowchart2](images/nova_flowchart2.jpg)
+![flowchart1](images/nova_flowchart_1.jpg)
+![flowchart2](images/nova_flowchart_2.jpg)
 
 ## Screen Designs
 ![Face](images/nova_face.jpg)
